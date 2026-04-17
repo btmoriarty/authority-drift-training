@@ -1,0 +1,1 @@
+2026-04-16 | Day 2: Audited Semantic Scholar codebase, installed Feynman, Claude Code docs reviewed | GitHub 2FA blocked me for 15 min, Feynman rate limits on Opus | SS codebase has zero bare except blocks and 130 tests in one file
